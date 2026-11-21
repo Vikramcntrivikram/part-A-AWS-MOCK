@@ -1,0 +1,1 @@
+# part-A-AWS-MOCK
